@@ -1,1 +1,1 @@
-"# ThycoticSolution" 
+# ThycoticSolution 
